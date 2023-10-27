@@ -1,5 +1,5 @@
 CXX        := g++
-CXX_FLAGS  := -static-libgcc -static-libstdc++
+CXX_FLAGS  := # -static-libgcc -static-libstdc++
 
 SRC        := ./src
 INCLUDE    := ./include
